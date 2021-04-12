@@ -1,0 +1,6 @@
+C:\Users\SaniaGos\source\repos\BuildingHouseLog\Loger\bin\Debug\Loger.dll
+C:\Users\SaniaGos\source\repos\BuildingHouseLog\Loger\bin\Debug\Loger.pdb
+C:\Users\SaniaGos\source\repos\BuildingHouseLog\Loger\obj\Debug\Loger.csprojAssemblyReference.cache
+C:\Users\SaniaGos\source\repos\BuildingHouseLog\Loger\obj\Debug\Loger.csproj.CoreCompileInputs.cache
+C:\Users\SaniaGos\source\repos\BuildingHouseLog\Loger\obj\Debug\Loger.dll
+C:\Users\SaniaGos\source\repos\BuildingHouseLog\Loger\obj\Debug\Loger.pdb
